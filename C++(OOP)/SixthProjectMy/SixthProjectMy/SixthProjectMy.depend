@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1724697576 source:c:\users\masfi\onedrive\desktop\c++(oop)\sixthprojectmy\sixthprojectmy\main.cpp
+	<iostream>
+	"mysixthclass.h"
+
+1724697576 c:\users\masfi\onedrive\desktop\c++(oop)\sixthprojectmy\sixthprojectmy\include\mysixthclass.h
+
+1724697625 source:c:\users\masfi\onedrive\desktop\c++(oop)\sixthprojectmy\sixthprojectmy\src\mysixthclass.cpp
+	"mysixthclass.h"
+	<iostream>
+

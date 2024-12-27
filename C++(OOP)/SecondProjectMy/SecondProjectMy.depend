@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1724519506 source:c:\users\masfi\onedrive\desktop\c++(oop)\secondprojectmy\mysecondclass.cpp
+	"mysecondclass.h"
+	<iostream>
+
+1724519270 c:\users\masfi\onedrive\desktop\c++(oop)\secondprojectmy\mysecondclass.h
+	"mysecondclass.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1724680099 source:c:\users\masfi\onedrive\desktop\c++(oop)\fourthprojectmy\fourthprojectmy\main.cpp
+	<iostream>
+	"myfourthclass.h"
+
+1724680099 c:\users\masfi\onedrive\desktop\c++(oop)\fourthprojectmy\fourthprojectmy\myfourthclass.h
+	"myfourthclass.h"
+
+1724680112 source:c:\users\masfi\onedrive\desktop\c++(oop)\fourthprojectmy\fourthprojectmy\myfourthclass.cpp
+	"myfourthclass.h"
+	<iostream>
+
